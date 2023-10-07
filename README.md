@@ -12,6 +12,8 @@ Needs [AutoHotKey](https://www.autohotkey.com/)
 |WIN + M or WIN + N			|Mute/Unmute Microphone or Line in	|
 |CTRL + ALT + T				|CMD								|
 |WIN + ENTER				|Prtsc								|
+|WIN + `					|Download Youtube video. Needs [yt-dlp](https://github.com/yt-dlp/yt-dlp#release-files) installed and in path.|
+|CTRL + WIN + `				|Download Youtube video but audio only.|
 
 
 ### ResolutionChanger.ahk

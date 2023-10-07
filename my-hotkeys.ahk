@@ -23,3 +23,8 @@ TraySetIcon("icons\remapping.ico")
 
 ; Screenshot
 #Enter::PrintScreen
+
+; Youtube Videos
+#`::Run "yt-dlp " A_Clipboard " -o " a_desktop "\%(title)s.%(ext)s" 
+#^`::Run "yt-dlp " A_Clipboard " -f bestaudio --extract-audio -o " a_desktop "\%(title)s.%(ext)s" 
+#+`::Run "mpv " A_Clipboard
