@@ -11,6 +11,12 @@ TraySetIcon("icons\remapping.ico")
 #WheelDown::Volume_Down
 #MButton::Volume_Mute
 
+; Microphone / Line In
+#M::SoundSetMute -1, 1, "Samson Meteor"
+#XButton2::SoundSetMute -1, 1, "Samson Meteor"
+#N::SoundSetMute -1, 1, "Line In"
+#XButton1::SoundSetMute -1, 1, "Line In"
+
 ; Open CMD, linux style
 ^!T::Run "cmd"
 ;^!T::Run "powershell"

@@ -9,6 +9,8 @@ WIN+ Mouse Wheel for Volume Control
 
 WIN + Middle Click for muting audio
 
+Mute/Unmute Microphone and Line in with WIN + Side mouse buttons
+
 CTRL + ALT + T
 
 WIN + ENTER for Prtsc
@@ -29,10 +31,5 @@ Useful for games that don't let you choose higher resolutions from DLDSR/DSR or 
 
 ### AutoResolutionChanger.ahk
 Changes the resolution when it detects a specific game running.
-
-Old script, needs more work.
-
-### MuteMic.ahk and MuteLine.ahk
-Mute Mic and Line In with hotkeys.
 
 Old script, needs more work.
