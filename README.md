@@ -19,12 +19,13 @@ Needs [AutoHotKey](https://www.autohotkey.com/)
 ### ResolutionChanger.ahk
 Hotkeys to change resolution and/or refresh rate. You can edit the file to specify the resolutions.
 
-|  HOTKEY  |       WHAT IT DOES			|
-|----------|----------------------------|
-|WIN + Home|1080p 144hz					|
-|WIN + PgUp|1080p 120hz					|
-|WIN + PgDn|1080p 60hz					|
-|WIN + End |1620p 144hz (NVIDIA DLDSR)  |
+|       HOTKEY		|       WHAT IT DOES			|
+|-------------------|-------------------------------|
+|WIN + Home			|1080p 144hz					|
+|WIN + PgUp			|1080p 120hz					|
+|WIN + PgDn			|1080p 60hz						|
+|WIN + End 			|1620p 144hz (NVIDIA DLDSR)  	|
+|WIN + Ctrl + End 	|4K 144hz (NVIDIA DSR)  		|
 
 Useful for games that don't let you choose higher resolutions from DLDSR/DSR or different refresh rates.
 

@@ -8,7 +8,9 @@ TraySetIcon("icons\dvi.ico")
 
 #PgDn::ChangeRefreshRate(60)
 
-#End::ChangeResolution(32, 3840, 2160, 144)
+#End::ChangeResolution(32, 2880, 1620, 144)
+
+#^End::ChangeResolution(32, 3840, 2160, 60)
 
 
 ChangeRefreshRate(rR)
